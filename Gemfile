@@ -16,6 +16,7 @@ gem 'rails-i18n'
 gem 'devise'
 gem 'devise-i18n'
 gem 'bootstrap_sb_admin_base_v2', '~> 0.3.6'
+gem 'jquery-rails'
 gem 'rails-assets-bootstrap', '4.0.0', source: 'https://rails-assets.org'
 
 group :development, :test do
